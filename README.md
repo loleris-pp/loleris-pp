@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @loleris-pp
-- 👀 I’m interested in pp in mouf
-- 🌱 I’m currently learning py
-- 💞️ I’m looking to collaborate on lua js
-- 📫 How to reach me loleris#1598
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=loleris+likes+pp.)](https://github.com/loleris-pp)
 
-<!---
-loleris-pp/loleris-pp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1031664203792138300?theme=dark)](https://discord.com/users/1031664203792138300)
+## 💻 Languages & Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/loleris-pp)
+<br>
+<br>
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,git,jquery,vscode&theme=dark)](https://github.com/loleris-pp)
