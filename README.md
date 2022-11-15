@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwayFromKane&layout=compact)](https://github.com/loleris-pp)
 <br>
 <br>
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,git,jquery,vscode&theme=dark)](https://github.com/loleris-pp)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,git,jquery,vscode&theme=dark)](https://github.com/loleris-pp)
