@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=i+hate+people+who+dmca+strike+for+useless+shit.)](https://github.com/loleris-pp)
-
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1031664203792138300?theme=dark)](https://discord.com/users/1031664203792138300)
 ## 💻 Languages & Skills
